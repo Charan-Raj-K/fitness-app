@@ -1,0 +1,11 @@
+{
+  "name": "flowise-chatbot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "flowise": "^1.0.0"
+  }
+}
